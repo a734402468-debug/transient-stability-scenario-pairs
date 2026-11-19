@@ -1,0 +1,3 @@
+point,export_MW,export_error_MW,max_pair_voltage_setpoint_difference_pu,bus48_upper_voltage_margin_pu,delta_G49_MW,delta_G66_MW,delta_G69_MW,delta_G80_MW
+retained,756.262691025,-0.791971975,0.0,4.72894189263e-05,31.998794556,-79.996978760,127.995147705,-79.996978760
+constructed,757.038942923,-0.015720077,0.0,4.09204111818e-05,0.000000000,0.000000000,162.019317627,-162.019317627
