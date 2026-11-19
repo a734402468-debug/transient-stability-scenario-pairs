@@ -1,0 +1,13 @@
+task,selector_configuration,decisions,valid_direction_selections,selections_yielding_required_pair,distinct_qualifying_dispatches
+118-bus,Deterministic rule,1,1,1,1
+118-bus,Astra (high),20,20,20,1
+118-bus,Sol (high),20,20,19,1
+118-bus,Qwen,20,19,16,1
+118-bus,DeepSeek (high),20,0,0,0
+118-bus,DeepSeek (low),20,3,1,1
+southern-xinjiang-H3,Deterministic rule,1,1,1,1
+southern-xinjiang-H3,Astra (high),20,20,20,1
+southern-xinjiang-H3,Sol (high),20,20,20,2
+southern-xinjiang-H3,Qwen,20,17,16,1
+southern-xinjiang-H3,DeepSeek (high),20,1,1,1
+southern-xinjiang-H3,DeepSeek (low),20,15,14,2

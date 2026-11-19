@@ -1,0 +1,5 @@
+point,integration_step_ms,numerical_admission,window_class,first_sustained_slip_s,G69_relative_to_G76_at_slip_deg,first_native_G69_slip_flag_s
+retained,5,admitted,synchronous,,,
+retained,2.5,admitted,synchronous,,,
+constructed,5,admitted,out_of_step,1.890833333,360.810809297,1.915833333
+constructed,2.5,admitted,out_of_step,1.890416667,360.123925299,1.915416667

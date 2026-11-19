@@ -1,0 +1,6 @@
+compensating_plants,Aert_schedule_residual_MW,Yonga_schedule_residual_MW,Shenk_schedule_residual_MW,strictest_holds_met,class_2p5_ms,class_1p25_ms
+Aert,33.966735840,0.000000000,0.000000000,H0,synchronous,synchronous
+Yonga,0.000000000,33.966735840,0.000000000,H1,synchronous,synchronous
+Shenk,0.000000000,0.000000000,33.966735840,H2,synchronous,synchronous
+huaw_FE,0.000000000,0.000000000,0.000000000,H3,synchronous,synchronous
+huaw_FE + Qiam_PHS,0.000000000,0.000000000,0.000000000,H3,synchronous,synchronous
