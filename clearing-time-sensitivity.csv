@@ -1,0 +1,13 @@
+model,frequency_Hz,clearing_condition,fault_duration_ms,endpoint,coarse_step_ms,fine_step_ms,coarse_class,fine_class,coarse_first_sustained_slip_s,fine_first_sustained_slip_s,evidence
+118-bus,60,one cycle earlier,483.333,retained,5,2.5,synchronous,synchronous,,,new
+118-bus,60,one cycle earlier,483.333,counterpart,5,2.5,synchronous,synchronous,,,new
+118-bus,60,original,500,retained,5,2.5,synchronous,synchronous,,,archive
+118-bus,60,original,500,counterpart,5,2.5,out of step,out of step,1.89083,1.89042,archive
+118-bus,60,one cycle later,516.667,retained,5,2.5,out of step,out of step,1.92250,1.91958,new
+118-bus,60,one cycle later,516.667,counterpart,5,2.5,out of step,out of step,1.80750,1.80458,new
+Southern Xinjiang,50,one cycle earlier,380,retained,2.5,1.25,out of step,out of step,1.63542,1.63521,new
+Southern Xinjiang,50,one cycle earlier,380,counterpart,2.5,1.25,synchronous,synchronous,,,new
+Southern Xinjiang,50,original,400,retained,2.5,1.25,out of step,out of step,1.63042,1.63021,archive
+Southern Xinjiang,50,original,400,counterpart,2.5,1.25,synchronous,synchronous,,,archive
+Southern Xinjiang,50,one cycle later,420,retained,2.5,1.25,out of step,out of step,1.63042,1.62896,new
+Southern Xinjiang,50,one cycle later,420,counterpart,2.5,1.25,out of step,out of step,3.06292,3.06271,new

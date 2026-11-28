@@ -1,0 +1,5 @@
+model,background,total_active_load_MW,reference_export_MW,reference_status,reported_G65_actual_P_MW,violated_G65_limit,violated_G65_limit_MW,R1_held_plant,R1_hold_target_MW,R1_hold_residual_MW,R0,R1_exclude_before_generation,R1_screen_after_generation,first_candidate_delta_Dake_MW,first_candidate_delta_Shenk_FE_MW
+118-bus,lower load,4941.958251,772.876662,static limits violated,-122.647,lower,100,G77,,,reference ineligible,reference ineligible,reference ineligible,,
+118-bus,higher load,5559.703047,738.899418,static limits violated,524.704,upper,491,G77,,,reference ineligible,reference ineligible,reference ineligible,,
+Southern Xinjiang,-0.5% load,1740.851986,,out of step (both steps),,,,Aert_PHS,199.850006,0,pair qualified,pair qualified,pair qualified,-33.966732,+33.966736
+Southern Xinjiang,+0.5% load,1758.348019,,out of step (both steps),,,,Aert_PHS,199.850006,0,pair qualified,pair qualified,pair qualified,-33.966732,+33.966736
